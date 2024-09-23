@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 # Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 # Aprendi sobre git e github;
 # Aprendi termos novos como repositório e commit por exemplo;
